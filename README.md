@@ -55,7 +55,7 @@ Portofolio/
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/trxiuss/Portofolio.git](https://github.com/trxiuss/Portofolio.git)
+git clone [https://github.com/trxiuss/Portofolio.git](https://github.com/trxiuss/Portfolio.git)
 cd Portofolio
 ```
 
