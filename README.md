@@ -37,7 +37,7 @@ Since this repository is structured as a **template**, you can easily clone it, 
 ## 📁 File Structure
 
 ```text
-Portofolio/
+Portfolio/
 ├── 📄 index.html          # Main portfolio landing page
 ├── 📄 404.html            # Custom page-not-found error page
 ├── 📄 style.css           # Central stylesheet (layout, typography, components)
